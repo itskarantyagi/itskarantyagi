@@ -11,15 +11,13 @@ I'm a graduate student at San Jose State University (SJSU) pursuing Master of Sc
 
 
 <br>
-<!--
-**itskarantyagi/itskarantyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 
 ### Checkout some of my recent repositories 
 - Petals to the Metal - Flower Classification on TPU. &nbsp;&nbsp;<a href="https://github.com/itskarantyagi/Petals-to-the-metal-Group12"><img src="https://custom-icon-badges.herokuapp.com/badge/Petals to the metal-blue.svg?logo=repo"/></a>
 - Cardiovascular Disease Detection. Me and my team worked on a Kaggle dataset to predict the likelihood of cardiovascular disease in a person. &nbsp;&nbsp;<a href="https://github.com/itskarantyagi/CMPE255-Group7"><img src="https://custom-icon-badges.herokuapp.com/badge/Cardiovascular Disease Detection-blue.svg?logo=repo"/></a>
-- Drowsiness Detector. This was done as a part of a graduate course. The final application is also deployed on heroku and uses Twilio api (trial account) to send SOS messages. &nbsp;&nbsp;<a href="https://github.com/itskarantyagi/Dont-Sleep"><img src="https://custom-icon-badges.herokuapp.com/badge/Don't Sleep-blue.svg?logo=repo"/></a>
+- Drowsiness Detector. This was done as a part of a graduate course. The app was designed for drivers to detect if the person has slept while driving. The final application is also deployed on heroku and uses Twilio api (trial account) to send SOS messages. &nbsp;&nbsp;<a href="https://github.com/itskarantyagi/Dont-Sleep"><img src="https://custom-icon-badges.herokuapp.com/badge/Don't Sleep-blue.svg?logo=repo"/></a>
 
 
 ### Random
