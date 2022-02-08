@@ -1,5 +1,7 @@
 ### Hi there! I'm Karan 👋
 
+I'm Karan Tyagi, a graduate student at San Jose State University (SJSU) specializing in Data Science. I'm a curious person and someone who is always trying to learn something I don't know.
+
 <br>
 
 <a href="https://www.linkedin.com/in/karantyagi80/"><img src="https://img.shields.io/badge/Karan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
